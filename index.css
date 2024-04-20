@@ -71,7 +71,7 @@ body {
 h1 {
   font-weight: 900;
   color: hsl(0, 0%, 7%);
-  font-size: 0.8rem;
+  font-size: 1.2rem;
 }
 
 h1:hover {
